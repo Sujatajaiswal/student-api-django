@@ -34,4 +34,21 @@ student_api_project/
 ├── venv/
 └── requirements.txt
 
+Endpoints working
+
+Test in browser:
+1.List/Create Students:
+http://127.0.0.1:8000/api/students/
+
+2.Adult Students:
+http://127.0.0.1:8000/api/students/adults/
+
+3.Try a sample POST:
+{
+  "name": "Sujata",
+  "age": 21,
+  "email": "sujata@example.com"
+}
+
+
 
