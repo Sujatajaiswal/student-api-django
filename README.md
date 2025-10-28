@@ -34,6 +34,9 @@ student_api_project/
 ├── venv/
 └── requirements.txt
 
+Command to run the project
+1.python manage.py runserver
+
 Endpoints working
 
 Test in browser:
